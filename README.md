@@ -1,5 +1,7 @@
 # jpnewman.openldap-server
 
+[![Build Status](https://travis-ci.org/jpnewman/ansible-role-openldap-server.svg?branch=master)](https://travis-ci.org/jpnewman/ansible-role-openldap-server)
+
 This Ansible role that wraps role ```bennojoy.openldap_server``` to adds some ldap users for testing.
 
 It mainly used to test the following roles: -
